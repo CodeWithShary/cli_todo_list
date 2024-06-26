@@ -1,0 +1,22 @@
+{
+  "name": "muhammad_shaharyar_todo_list001",
+  "version": "1.0.1",
+  "description": "cli based todo list made with inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Shaharyar",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.9"
+  },
+  "dependencies": {
+    "code_with_shary_todo_list": "^1.0.1",
+    "inquirer": "^9.2.23"
+  }
+}
